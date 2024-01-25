@@ -1,4 +1,4 @@
-name: Animal Farm Node.js CI
+name: Ani-Farm-Node.js CI
 
 on:
   push:
