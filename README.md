@@ -9,7 +9,7 @@ A sample Express application written in Node.js for a Github README post.
 
 ### Install modules
 
-Run `yarn` to install the required node modules.
+Run `yarn` to install the required node modules..
 
 ```shell
 yarn install
